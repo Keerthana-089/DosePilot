@@ -11,7 +11,6 @@ A full-stack healthcare web application designed to help users manage medication
 ![Java](https://img.shields.io/badge/Java-Backend-ED8B00?style=for-the-badge&logo=java)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-API-6DB33F?style=for-the-badge&logo=springboot)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql)
-![JWT](https://img.shields.io/badge/JWT-Authentication-black?style=for-the-badge)
 
 </div>
 
@@ -107,17 +106,14 @@ This project demonstrates full-stack development by integrating a professional R
 - React.js
 - TypeScript
 - Tailwind CSS
-- shadcn/ui
 - React Router
 - React Query
 - Axios
 
 ### Backend
-- Java 17
+- Java 
 - Spring Boot
-- Spring Security
 - Spring Data JPA
-- JWT Authentication
 - Maven
 
 ### Database
@@ -128,7 +124,6 @@ This project demonstrates full-stack development by integrating a professional R
 - GitHub
 - Postman
 - Swagger/OpenAPI
-- IntelliJ IDEA
 - VS Code
 
 ---
@@ -197,56 +192,6 @@ DosePilot/
 
 ---
 
-## 🚀 API Endpoints
-
-### Authentication
-```http
-POST /api/auth/register
-POST /api/auth/login
-POST /api/auth/forgot-password
-POST /api/auth/reset-password
-```
-
-### Medicines
-```http
-GET /api/medicines
-POST /api/medicines
-GET /api/medicines/{id}
-PUT /api/medicines/{id}
-DELETE /api/medicines/{id}
-```
-
-### Reminders
-```http
-GET /api/reminders
-POST /api/reminders
-PUT /api/reminders/{id}
-DELETE /api/reminders/{id}
-```
-
-### Dose Tracking
-```http
-POST /api/dose/taken
-POST /api/dose/skipped
-GET /api/dose/history
-```
-
-### Notifications
-```http
-GET /api/notifications
-PUT /api/notifications/read
-```
-
-### Family Management
-```http
-GET /api/family
-POST /api/family
-PUT /api/family/{id}
-DELETE /api/family/{id}
-```
-
----
-
 ## ⚙️ Installation
 
 ### Clone Repository
@@ -300,33 +245,6 @@ http://localhost:8080
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots here after project completion:
-
-```md
-![Landing Page](assets/landing-page.png)
-![Dashboard](assets/dashboard.png)
-![Medicine Management](assets/medicines.png)
-![Reminder System](assets/reminders.png)
-```
-
----
-
-## 🎯 Future Enhancements
-
-- Email reminder notifications
-- SMS alerts
-- Push notifications
-- OCR prescription scanner
-- AI medicine recommendations
-- Doctor integration
-- Health report export (PDF)
-- Cloud deployment
-- Admin dashboard
-- Multi-language support
-
----
 
 ## 💡 Learning Outcomes
 
@@ -341,30 +259,6 @@ This project demonstrates:
 - State management
 - Scheduler implementation
 - Scalable architecture design
-
----
-
-## 🌍 Use Cases
-
-DosePilot helps:
-
-- Individuals managing daily medications
-- Elderly healthcare support
-- Families managing medicine schedules
-- Caregivers monitoring dependents
-- Improving medication adherence
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome.
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to GitHub
-5. Open a Pull Request
 
 ---
 
