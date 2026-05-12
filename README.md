@@ -260,7 +260,6 @@ This project demonstrates:
 - Frontend-backend integration
 - State management
 - Scheduler implementation
-- Scalable architecture design
 
 ---
 
