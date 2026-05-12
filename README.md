@@ -7,7 +7,6 @@
 A full-stack healthcare web application designed to help users manage medications efficiently with reminders, dose tracking, stock monitoring, adherence analytics, and family healthcare support.
 
 ![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-Frontend-3178C6?style=for-the-badge&logo=typescript)
 ![Java](https://img.shields.io/badge/Java-Backend-ED8B00?style=for-the-badge&logo=java)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-API-6DB33F?style=for-the-badge&logo=springboot)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql)
