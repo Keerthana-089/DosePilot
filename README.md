@@ -1,4 +1,4 @@
-# 💊 DosePilot 💉
+# 💊 DosePilot 
 
 <div align="center">
 
