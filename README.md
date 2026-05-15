@@ -8,7 +8,6 @@ A full-stack healthcare web application designed to help users manage medication
 
 ![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react)
 ![Java](https://img.shields.io/badge/Java-Backend-ED8B00?style=for-the-badge&logo=java)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-API-6DB33F?style=for-the-badge&logo=springboot)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql)
 
 🔗 Link: https://dosepilot-health-hub.c-keerthana089.workers.dev/
